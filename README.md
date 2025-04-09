@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, meu nome é Lucca Silva Oliveira 👋
 
-<!--
-**pedraomk/pedraomk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um entusiasta da tecnologia com 17 anos, estudando e desenvolvendo projetos nas áreas de **desenvolvimento web e mobile**. Curioso por natureza, estou sempre buscando aprender novas ferramentas e linguagens para transformar ideias em soluções criativas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contato  
+[Email](mailto:marciniakpedrohenrique@gmail.com) | [WhatsApp](https://wa.me/47984558107) | [LinkedIn](https://www.linkedin.com/in/pedro-henrique-marciniak-011b5a2bb/)
+
+---
+
+### 📊 Linguagens em Destaque  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedraomk&layout=compact&theme=tokyonight)
+
+---
+
+### 🚀 Tecnologias que uso  
+
+**Linguagens & Marcação**  
+![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)  
+
+**Frameworks & Bibliotecas**  
+**Banco de Dados**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)  
+
