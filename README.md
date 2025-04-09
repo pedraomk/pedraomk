@@ -1,4 +1,4 @@
-# Olá, meu nome é Lucca Silva Oliveira 👋
+# Olá, meu nome é Pedro Henrique Marciniak 👋
 
 Sou um entusiasta da tecnologia com 17 anos, estudando e desenvolvendo projetos nas áreas de **desenvolvimento web e mobile**. Curioso por natureza, estou sempre buscando aprender novas ferramentas e linguagens para transformar ideias em soluções criativas.
 
