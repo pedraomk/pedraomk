@@ -43,4 +43,4 @@ Git / GitHub / REST / APIs / Postman / VSCode / etc
 
 | Projeto | O que faz / finalidade | Tecnologias principais |
 |---|---|---|
-| **Irlandio** | _(descrever funcionamento, público alvo, diferencial)_ | Java / React / Node (ou o que você usou) |
+| **Irlandio** | Atividades Produzidas em sala de Aula | Java / React / Node |
