@@ -15,7 +15,12 @@ Tenho 18 anos e sou um entusiasta de tecnologia, sempre mergulhado em projetos d
 
 ## 📊 Estatísticas de Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedraomk&layout=compact&theme=tokyonight)
+<div align="center">
+  <a href="https://github.com/luccasilva2">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccasilva2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasilva2&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
 
 ---
 
