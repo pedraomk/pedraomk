@@ -1,6 +1,6 @@
 # Olá, meu nome é Pedro Henrique Marciniak 👋
 
-Tenho 17 anos e sou um entusiasta de tecnologia, sempre mergulhado em projetos de desenvolvimento web e mobile. Movido pela curiosidade, estou constantemente explorando novas linguagens, ferramentas e frameworks para transformar ideias em soluções criativas e funcionais.
+Tenho 18 anos e sou um entusiasta de tecnologia, sempre mergulhado em projetos de desenvolvimento web e mobile. Movido pela curiosidade, estou constantemente explorando novas linguagens, ferramentas e frameworks para transformar ideias em soluções criativas e funcionais.
 
 ---
 
