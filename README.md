@@ -27,6 +27,7 @@ Tenho 18 anos e sou um entusiasta de tecnologia, sempre mergulhado em projetos d
 ## 🛠 Tecnologias & Ferramentas que Utilizo
 
 **Linguagens & Marcação**  
+![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)  
 ![Java](https://img.shields.io/badge/Java-SE-007396?style=flat&logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
